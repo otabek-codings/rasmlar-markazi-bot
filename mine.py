@@ -24,3 +24,5 @@ app.add_handler(CommandHandler("start", start))
 
 print("Bot ishga tushdi...")
 app.run_polling()
+
+# test
