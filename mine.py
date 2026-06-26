@@ -26,3 +26,5 @@ print("Bot ishga tushdi...")
 app.run_polling()
 
 # test
+
+print("Git test")
